@@ -4,8 +4,8 @@
 I'm a passionate **App, Web, and Cloud Engineer** with expertise in backend development. I specialize in building scalable and efficient systems using cutting-edge technologies.
 
 ## 💻 Tech Stack
-- **Languages**: JavaScript, TypeScript, Python, Kotlin, Dart
-- **Frontend**: Flutter, React.js
+- **Languages**: JavaScript, TypeScript, Python, PHP, Dart
+- **Frontend**: Flutter, React Native, Next.js, React.js
 - **Backend**: Node.js (Express, Fastify), PHP
 - **Database**: MySQL, PostgreSQL, MongoDB, Sequelize
 - **Cloud & DevOps**: AWS, Docker, Kubernetes
@@ -13,7 +13,7 @@ I'm a passionate **App, Web, and Cloud Engineer** with expertise in backend deve
 
 ## 🌟 What I Do
 - 🔥 Develop high-performance **backend systems** & APIs
-- 📱 Create **mobile apps** using Flutter & Kotlin
+- 📱 Create **mobile apps** using Flutter & React Native
 - 🌐 Build **scalable web applications**
 - ☁️ Work with **Cloud Engineering & DevOps**
 - 🔐 Explore **Cybersecurity & Ethical Hacking**
